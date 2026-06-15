@@ -1,5 +1,5 @@
 {
-    "Enable": false,
+    "Enable": true,
     "Languages": ["ru"],
     "Timezones": ["Kaliningrad", "Kirov", "Moscow", "Samara", "Saratov", "Volgograd", "Yekaterinburg", "Omsk", "Barnaul", "Krasnoyarsk", "Novosibirsk",
     "Irkutsk", "Chita", "Vladivostok", "Magadan", "Sakhalin", "Srednekolymsk", "Anadyr", "Kamchatka", "Oral", "Almaty", "Baku", "Yerevan", "Minsk",
@@ -7,8 +7,10 @@
     "LinkConfigurations": [
     {
       "LanguageCode": "ru",
-      "SupportedTimezones": ["Moscow", "Samara", "Yekaterinburg"],
-      "AvailableLinks": [""]
+      "SupportedTimezones": ["Kaliningrad", "Kirov", "Moscow", "Samara", "Saratov", "Volgograd", "Yekaterinburg", "Omsk", "Barnaul", "Krasnoyarsk", "Novosibirsk",
+    "Irkutsk", "Chita", "Vladivostok", "Magadan", "Sakhalin", "Srednekolymsk", "Anadyr", "Kamchatka", "Oral", "Almaty", "Baku", "Yerevan", "Minsk",
+    "Bishkek", "Chisinau", "Dushanbe", "Tashkent"],
+      "AvailableLinks": ["https://gowhitepp.com/4dCNehUg/?subId1=rscrs"]
     }
   ]
 }
